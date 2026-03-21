@@ -16663,5 +16663,18 @@
     "start_date_local": "2026-03-01T09:31:47Z",
     "type": "NordicSki",
     "year": 2026
+  },
+  {
+    "date": "2026-03-20",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17798108614",
+    "moving_time": 2974.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-03-20T15:45:35Z",
+    "type": "Workout",
+    "year": 2026
   }
 ]
