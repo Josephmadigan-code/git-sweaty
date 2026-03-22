@@ -8980,6 +8980,13 @@
       "subtype": "Workout",
       "type": "Workout",
       "year": 2026
+    },
+    {
+      "date": "2026-03-21",
+      "hour": 17,
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -18063,6 +18070,15 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 5377.0
+        },
+        "2026-03-21": {
+          "activity_ids": [
+            "17809965791"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 3849.0
         }
       },
       "Run": {
@@ -18119,7 +18135,7 @@
       }
     }
   },
-  "generated_at": "2026-03-21T15:49:43.874996+00:00",
+  "generated_at": "2026-03-22T15:50:23.819577+00:00",
   "other_bucket": "OtherSports",
   "repo": "Josephmadigan-code/git-sweaty",
   "source": "strava",
