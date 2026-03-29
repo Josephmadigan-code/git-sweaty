@@ -16741,5 +16741,18 @@
     "start_date_local": "2026-03-27T16:13:03Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-03-28",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "17894670560",
+    "moving_time": 5054.0,
+    "name": "Afternoon Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-03-28T15:46:22Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
