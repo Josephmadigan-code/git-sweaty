@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T16:02:41.656155+00:00",
+  "generated_at": "2026-04-08T16:06:18.913828+00:00",
   "years": {
     "2020": {
       "BackcountrySki": {
@@ -8836,6 +8836,24 @@
           "distance": 0.0,
           "elevation_gain": 0.0,
           "moving_time": 2624.0
+        },
+        "2026-04-05": {
+          "activity_ids": [
+            "18021808651"
+          ],
+          "count": 1,
+          "distance": 37127.9,
+          "elevation_gain": 355.0,
+          "moving_time": 6603.0
+        },
+        "2026-04-07": {
+          "activity_ids": [
+            "18021043119"
+          ],
+          "count": 1,
+          "distance": 18375.9,
+          "elevation_gain": 292.0,
+          "moving_time": 3380.0
         }
       },
       "Rowing": {
