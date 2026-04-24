@@ -16975,5 +16975,44 @@
     "start_date_local": "2026-04-20T09:13:37Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 6771.6,
+    "elevation_gain": 0.0,
+    "id": "18226751809",
+    "moving_time": 2120.0,
+    "name": "The grips on my oars have a special way of destroying my hands",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-23T07:14:37Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-23",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18233533944",
+    "moving_time": 5177.0,
+    "name": "Afternoon Workout",
+    "raw_activity_type": "Workout",
+    "raw_type": "Workout",
+    "start_date_local": "2026-04-23T16:53:46Z",
+    "type": "Workout",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-24",
+    "distance": 10347.0,
+    "elevation_gain": 0.0,
+    "id": "18240252158",
+    "moving_time": 3144.0,
+    "name": "Blister total = 8",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-24T07:07:58Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
