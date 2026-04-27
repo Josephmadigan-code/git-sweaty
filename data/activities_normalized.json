@@ -17040,5 +17040,31 @@
     "start_date_local": "2026-04-25T07:10:13Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-04-26",
+    "distance": 13417.1,
+    "elevation_gain": 0.0,
+    "id": "18268473814",
+    "moving_time": 4067.0,
+    "name": "Wishing best of luck to my fellow batams racing today",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-26T07:21:27Z",
+    "type": "Rowing",
+    "year": 2026
+  },
+  {
+    "date": "2026-04-27",
+    "distance": 12957.4,
+    "elevation_gain": 0.0,
+    "id": "18280046604",
+    "moving_time": 3754.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-04-27T07:24:53Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
