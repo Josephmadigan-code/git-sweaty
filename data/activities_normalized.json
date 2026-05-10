@@ -17196,5 +17196,18 @@
     "start_date_local": "2026-05-08T07:02:16Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-09",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18446256240",
+    "moving_time": 3223.0,
+    "name": "4x2k @ 1:58",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-09T18:31:28Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
