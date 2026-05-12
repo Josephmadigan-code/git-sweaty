@@ -17222,5 +17222,18 @@
     "start_date_local": "2026-05-11T08:11:45Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-12",
+    "distance": 5578.3,
+    "elevation_gain": 0.0,
+    "id": "18478146973",
+    "moving_time": 1709.0,
+    "name": "Veddy vidy",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-12T07:19:54Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
