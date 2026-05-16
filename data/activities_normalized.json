@@ -17248,5 +17248,18 @@
     "start_date_local": "2026-05-14T19:04:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-15",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18523657308",
+    "moving_time": 4038.0,
+    "name": "Dry heaving on the erg at the community centre is cool right ??",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-15T18:34:50Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
