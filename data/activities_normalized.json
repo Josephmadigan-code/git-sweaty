@@ -17300,5 +17300,31 @@
     "start_date_local": "2026-05-18T14:25:23Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-05-21",
+    "distance": 16475.7,
+    "elevation_gain": 379.0,
+    "id": "18603482244",
+    "moving_time": 4860.0,
+    "name": "Zeep",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-21T18:07:59Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-22",
+    "distance": 10555.5,
+    "elevation_gain": 0.0,
+    "id": "18609777962",
+    "moving_time": 3128.0,
+    "name": "Morning Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-22T07:16:03Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
