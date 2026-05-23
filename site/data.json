@@ -8975,6 +8975,13 @@
       "year": 2026
     },
     {
+      "date": "2026-03-08",
+      "hour": 12,
+      "subtype": "Ride",
+      "type": "Ride",
+      "year": 2026
+    },
+    {
       "date": "2026-03-20",
       "hour": 15,
       "subtype": "Workout",
@@ -9329,6 +9336,13 @@
       "hour": 7,
       "subtype": "Rowing",
       "type": "Rowing",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-22",
+      "hour": 13,
+      "subtype": "Ride",
+      "type": "Ride",
       "year": 2026
     }
   ],
@@ -18151,6 +18165,15 @@
           "elevation_gain": 0.0,
           "moving_time": 3618.0
         },
+        "2026-03-08": {
+          "activity_ids": [
+            "17798108613"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1863.0
+        },
         "2026-03-30": {
           "activity_ids": [
             "17919475296"
@@ -18285,6 +18308,15 @@
           "distance": 16475.7,
           "elevation_gain": 379.0,
           "moving_time": 4860.0
+        },
+        "2026-05-22": {
+          "activity_ids": [
+            "18613280163"
+          ],
+          "count": 1,
+          "distance": 22446.9,
+          "elevation_gain": 163.0,
+          "moving_time": 2382.0
         }
       },
       "Rowing": {
@@ -18903,7 +18935,7 @@
       }
     }
   },
-  "generated_at": "2026-05-22T17:00:42.683070+00:00",
+  "generated_at": "2026-05-23T15:54:32.666449+00:00",
   "other_bucket": "OtherSports",
   "repo": "Josephmadigan-code/git-sweaty",
   "source": "strava",
