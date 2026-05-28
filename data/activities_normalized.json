@@ -17391,5 +17391,18 @@
     "start_date_local": "2026-05-25T18:20:04Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-27",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18683469404",
+    "moving_time": 4681.0,
+    "name": "Sea level air juicy and delicious for my 700m adjusted blood",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-27T17:43:35Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
