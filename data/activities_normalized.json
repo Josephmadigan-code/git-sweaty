@@ -17417,5 +17417,18 @@
     "start_date_local": "2026-05-29T18:36:24Z",
     "type": "Rowing",
     "year": 2026
+  },
+  {
+    "date": "2026-05-30",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18722864220",
+    "moving_time": 4435.0,
+    "name": "2:02.3 ave - 16km",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-05-30T18:26:48Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
