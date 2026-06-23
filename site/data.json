@@ -9449,6 +9449,13 @@
       "subtype": "Rowing",
       "type": "Rowing",
       "year": 2026
+    },
+    {
+      "date": "2026-06-22",
+      "hour": 19,
+      "subtype": "Rowing",
+      "type": "Rowing",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -19110,6 +19117,15 @@
           "distance": 11228.7,
           "elevation_gain": 0.0,
           "moving_time": 3251.0
+        },
+        "2026-06-22": {
+          "activity_ids": [
+            "19030316413"
+          ],
+          "count": 1,
+          "distance": 6828.2,
+          "elevation_gain": 0.0,
+          "moving_time": 2047.0
         }
       },
       "Run": {
@@ -19175,7 +19191,7 @@
       }
     }
   },
-  "generated_at": "2026-06-22T18:39:00.933534+00:00",
+  "generated_at": "2026-06-23T17:08:52.130164+00:00",
   "other_bucket": "OtherSports",
   "repo": "Josephmadigan-code/git-sweaty",
   "source": "strava",
