@@ -17573,5 +17573,18 @@
     "start_date_local": "2026-06-23T18:04:28Z",
     "type": "Ride",
     "year": 2026
+  },
+  {
+    "date": "2026-06-25",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "19092067108",
+    "moving_time": 2471.0,
+    "name": "Evening Row",
+    "raw_activity_type": "Rowing",
+    "raw_type": "Rowing",
+    "start_date_local": "2026-06-25T18:49:59Z",
+    "type": "Rowing",
+    "year": 2026
   }
 ]
